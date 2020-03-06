@@ -8,7 +8,7 @@ On ne travaille pas sur la branche "master". elle reflète notre avancée.
 
 Si vous avez des questions, posez les sur le document **FAQ.md**.
 
-## Des astuces git 
+## Des astuces git
 
 ### Afficher les branches
 
