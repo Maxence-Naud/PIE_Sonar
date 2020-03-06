@@ -4,7 +4,7 @@ L'objectif de ce projet est de produire un programme pouvant déterminer la posi
 
 ## Consigne
 
-On ne travialle pas sur la branche "master". elle reflète notre avancée.
+On ne travaille pas sur la branche "master". elle reflète notre avancée.
 
 ## Des astuces git 
 
