@@ -6,6 +6,8 @@ L'objectif de ce projet est de produire un programme pouvant déterminer la posi
 
 On ne travialle pas sur la branche "master". elle reflète notre avancée.
 
+Si vous avez des questions, posez les sur le document **FAQ.md**.
+
 ## Des astuces git 
 
 ### Afficher les branches
